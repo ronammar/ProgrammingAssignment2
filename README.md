@@ -1,3 +1,9 @@
+**Assignment #2 complete!**
+
+Thanks for evaluating.
+
+##Assignment Instructions:
+
 ### Introduction
 
 This second programming assignment will require you to write an R
